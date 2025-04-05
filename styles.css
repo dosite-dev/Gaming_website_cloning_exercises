@@ -146,7 +146,36 @@
 
 
 /*  thrid part  */
+.third-part{
+    display: flex;
+    
+}
+.third-part1{
+    background-color: white;
+    border-radius: 20px;
 
+
+}
+.third-part2{
+    background-color: white;
+    border-radius: 20px;
+
+
+    
+}
+.third-part3{
+    background-color: white;
+    border-radius: 20px;
+
+
+    
+}
+.third-part4{
+    background-color: white;
+    border-radius: 20px;
+
+    
+}
 
 
 
